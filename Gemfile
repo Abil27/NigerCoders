@@ -41,6 +41,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
 end
 
+# adding gem of Bootstap library
 gem 'bootstrap-sass', '3.3.7'
 
 group :development do
